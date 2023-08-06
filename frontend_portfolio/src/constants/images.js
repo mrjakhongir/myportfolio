@@ -24,9 +24,11 @@ import amazon from "../assets/amazon.png";
 import asus from "../assets/asus.png";
 import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
+import mobile from "../assets/mobile.png";
 
 export const images = {
   email,
+  mobile,
   api,
   css,
   figma,
